@@ -14,10 +14,10 @@ export default function ActivitiesList () {
 
     return (
         <>
-        <h1>Activities</h1>
+        <h1 className="text-center text-3xl font-bold mb-6  mt-8">Activités</h1>
         <div className="flex flex-wrap gap-4 justify-center">
             {activity && activity.map((a) => (
-                <Activity key= {a.id} activity={a} />
+                <Activity  className="flex-1"   key= {a.id} activity={a} />
             ))}
         </div>
         </>
