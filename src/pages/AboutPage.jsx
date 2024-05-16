@@ -1,3 +1,4 @@
+import Avis from "../components/Avis";
 import PresentationSite from "../components/PresentationSite";
 
 export default function AboutPage() {
@@ -7,6 +8,7 @@ export default function AboutPage() {
         <div>
             <h1>A propos de notre site</h1>
             <PresentationSite />
+            <Avis />
         </div>
     )
 
