@@ -10,11 +10,14 @@ export default function Avis() {
   const randomAvis = avisRandom(avis);
 
   return (
+    <div className="avis">
+      <h2>Les avis de nos utilisateurs</h2>
     <div className="container-avis">
       <p>{randomAvis.title}</p>
       <p>Utilisateur : {randomAvis.name}</p>
       <p>{randomAvis.rating}</p>
       <p>{randomAvis.description}</p>
+    </div>
     </div>
   );
 }
