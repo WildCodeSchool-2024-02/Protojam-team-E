@@ -10,7 +10,7 @@ const avis = [
   {
     id: 2,
     name: "Benoît",
-    title: "Une aventure en pédales et en péripéties !",
+    title: "Pédales et péripéties !",
     description:
       "On pédale, on profite de la verdure et... on esquive les joggers kamikazes. Oui, c'est du vécu ! Les pistes sont top, et j'ai même cru voir un écureil. 4 étoiles parce que mon derrière ne s'en remettra jamais, mais quelle balade !",
     rating: "★★★★☆",
@@ -26,7 +26,7 @@ const avis = [
   {
     id: 4,
     name: "Christopher",
-    title: "Les pioupiou en rando : une aventure mémorable",
+    title: "Les pioupiou en rando",
     description:
       "La vue sur la vallée de la Seine étaient incroyables! Les pioupiou ont adoré chercher les oratoires cachés et on a même croisé des chats curieux. Une escapade parfaite loin de l'agitation",
     rating: "★★★★★",
@@ -34,7 +34,7 @@ const avis = [
   {
     id: 5,
     name: "Avouz",
-    title: "Une escapade nature à ne pas manquer !",
+    title: "Une escapade nature!",
     description:
       "Passer une nuit en bivouac dans la Forêt de Fontainebleau est une expérience magique. A seuelement 1 heure de Paris en voiture, on se retrouve au coeur de la nature. Une escapade parfaite pour une déconnexion totale.",
     rating: "★★★★☆",

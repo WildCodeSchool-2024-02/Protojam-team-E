@@ -1,4 +1,5 @@
 import avis from "../data/avis";
+import "../css/Avis.css";
 
 function avisRandom(avis) {
   const randomIndex = Math.floor(Math.random() * avis.length);
@@ -9,10 +10,10 @@ export default function Avis() {
   const randomAvis = avisRandom(avis);
 
   return (
-    <div>
-      <p>{randomAvis.name}</p>
+    <div className="container-avis">
+      <p>{randomAvis.title}</p>
+      <p>Utilisateur : {randomAvis.name}</p>
       <p>{randomAvis.rating}</p>
-      <h2>{randomAvis.title}</h2>
       <p>{randomAvis.description}</p>
     </div>
   );
