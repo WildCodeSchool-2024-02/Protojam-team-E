@@ -10,7 +10,7 @@ export default function Activity({activity}) {
             #{activity.category}
             </span>
             <span className=" inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold ">
-            🕐{activity.access}
+            🕐 {activity.access}
             </span>
             </div>  
         </div>

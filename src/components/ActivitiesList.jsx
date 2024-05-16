@@ -14,7 +14,9 @@ export default function ActivitiesList () {
 
     return (
         <>
-        <h1 className="text-center text-3xl font-bold mb-6  mt-8">Activités</h1>
+        <h1 className="text-center text-xl font-bold italic mb-6 mt-8">
+  Accueil <span> ⭢ </span> <span className="text-green-600 px-2 rounded-md">Activités</span>
+</h1>
         <div className="flex flex-wrap gap-4 justify-center">
             {activity && activity.map((a) => (
                 <Activity  className="flex-1"   key= {a.id} activity={a} />
