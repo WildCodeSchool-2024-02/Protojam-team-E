@@ -33,7 +33,7 @@ const avis = [
   },
   {
     id: 5,
-    name: "Avouz",
+    name: "Yavouz",
     title: "Une escapade nature!",
     description:
       "Passer une nuit en bivouac dans la Forêt de Fontainebleau est une expérience magique. A seuelement 1 heure de Paris en voiture, on se retrouve au coeur de la nature. Une escapade parfaite pour une déconnexion totale.",
