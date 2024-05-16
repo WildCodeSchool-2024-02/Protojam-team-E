@@ -160,7 +160,7 @@
     },
     {
       "id": 15,
-      "category": "Randonnée ",
+      "category": "Randonnée",
       "name": "La mer de sable de la forêt de Fontainbleau",
       "description": "Promenade insolite appréciée des randonneurs dans la mer de sable au sein de la forêt de Fontainebleau",
       "rating": 4.1,
@@ -215,7 +215,7 @@
     },
     {
       "id": 20,
-      "category": "Nuit à la belle étoile",
+      "category": "Nuit insolite",
       "name": "Observation des étoiles à la Chevreuse",
       "description": "Une expérience d'observation des étoiles dans la vallée de Chevreuse, parfaite pour les amateurs d'astronomie.",
       "rating": 4.7,
