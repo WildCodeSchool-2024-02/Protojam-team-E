@@ -1,6 +1,9 @@
+import "../css/PresentationSite.css"
+
 export default function PresentationSite() {
   return (
-    <div>
+    <div className="container-presentation">
+      <h1>Bienvenue sur notre site CheminVert</h1>
       <p>
         À l'ère trépidante de la vie urbaine parisienne, il est essentiel de
         s'évader de la frénésie citadine pour renouer avec la quiétude et la
