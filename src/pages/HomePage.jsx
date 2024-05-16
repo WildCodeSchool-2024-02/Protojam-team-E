@@ -1,5 +1,4 @@
 import Carrousel from "../components/Carrousel";
-import React from "react";
 
 export default function HomePage() {
   return (
