@@ -17,7 +17,7 @@ export default function DetailPage() {
     return null;
   }
 
-  const { image, name, rating, category, description } = activity;
+  const { image, name, rating, category, description,infos,lien } = activity;
 
   return (
     <>
@@ -29,9 +29,15 @@ export default function DetailPage() {
             <div className="font-bold text-3xl mb-4">{name}</div>
             <p className="text-gray-700 text-lg mb-4">{description}</p>
             <p className="text-gray-700 text-lg font-semibold mb-4">Noté : {rating}/5 ⭐</p>
-            <span className="inline-block bg-gradient-to-br from-green-500 via-green-300 to-yellow-200 rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-4">
+            <p className="text-green-700 text-l font-semibold mb-4"> 💡 Informations pratiques : </p>
+            <p className="text-gray-700 text-lg mb-4"> {infos} </p>
+            <p><a  href={lien} className="text-blue-600 underline hover:text-blue-500 hover:scale-95 transition-transform text-lg  mr-2 mb-3 "> {lien} </a></p>
+            <span className="inline-block bg-gradient-to-br from-green-500 via-green-300 to-yellow-200 rounded-full px-3 py-1 text-sm font-semibold ml-2 mb-4">
               #{category}
             </span>
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold ml-2 mb-4">
+          🕐 {activity.access}
+        </span>
           </div>
         </div>
       </div>
