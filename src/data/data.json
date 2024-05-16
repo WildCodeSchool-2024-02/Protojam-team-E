@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "category": "Yoga",
+      "category": "Loisirs",
       "name": "Retraite de Yoga en Forêt",
       "description": "Une retraite de yoga immersive en pleine forêt, idéale pour se reconnecter avec soi-même.",
       "rating": 4.9,
@@ -14,7 +14,7 @@
 
     {
       "id": 2,
-      "category": "Escalade",
+      "category": "Loisirs",
       "name": "Sortie escalade sur blocs",
       "description": "Une sortie sportive pour pratiquer l'escalade dans un lieu légendaire.",
       "rating": 4.9,
@@ -105,7 +105,7 @@
     },
     {
       "id": 10,
-      "category": "Vélo",
+      "category": "Loisirs",
       "name": "Sortie à vélo le long de la Coulée Verte Sud",
       "description": "Cette sortie vous propose de quitter l'ambiance très urbaine de la capitale pour filer plein sud, jusqu'à Massy. L'intinéraire suit le tracé de la Coulée Verte Sud, au départ de la Catalogne dans le 14ème arrondissement.",
       "rating": 4.2,
