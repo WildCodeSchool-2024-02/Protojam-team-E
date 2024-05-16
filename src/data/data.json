@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "Loisirs",
+      "name": "Retraite de Yoga en Forêt",
+      "description": "Une retraite de yoga immersive en pleine forêt, idéale pour se reconnecter avec soi-même.",
+      "rating": 4.9,
+      "image": "https://unsplash.com/fr/photos/woman-in-black-pants-and-pink-shirt-standing-on-green-grass-field-during-daytime-n5trbdfW7fM",
+      "location": "Forêt de Fontainebleau",
+      "access": " À 1h de Paris en voiture",
+      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+    },
+
+    {
+      "id": 2,
+      "category": "Loisirs",
+      "name": "Sortie escalade sur blocs",
+      "description": "Une sortie sportive pour pratiquer l'escalade dans un lieu légendaire.",
+      "rating": 4.9,
+      "image": "https://unsplash.com/fr/photos/femme-en-t-shirt-noir-grimpant-sur-un-rocher-brun-jwG3wttsbfg",
+      "location": "Forêt de Fontainebleau",
+      "access": " À 1h de Paris en voiture",
+      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+    },
+    {
+      "id": 3,
+      "category": "Week-end déconnexion",
+      "name": "La Baie de Somme",
+      "description": "Paysages sauvages, longues plages de sable et massifs dunaire... Les paysages y sont absolument fantastique. Venez vous chouchouter dans une des jolies stations balnéaires ou venez vivre une expérience insolite. Sans oublier les rencontres avec les fameaux phoques du coin.",
+      "rating": 4.5,
+      "image": "https://media.istockphoto.com/id/1438913266/photo/seals-of-the-bay-of-authie-in-france.jpg?s=1024x1024&w=is&k=20&c=D01IvDUx-fkjkkGwFekUTiAFh1CBLIUi95792BZnpyY=",
+      "location": "Picardie",
+      "access": "A 2h45 en voiture de Paris",
+      "infos pratiques": ""
+    },
+
+    {
+      "id": 4,
+      "category": "Parc",
+      "name": "Parc floral de Paris",
+      "description": "Le Parc floral du Bois de Vincennes est le plus vaste jardin de fleurs de Paris. Il offre une myriade d’activités nature pour toutes les générations, faisant de lui plus qu’un simple parc, mais un véritable paradis pour les promeneurs.",
+      "rating": "4,8",
+      "image": "https://cdn.generationvoyage.fr/2024/01/Parc-floral-de-Paris-Bois-de-Vincennes-755x430.jpeg",
+      "location": "Paris",
+      "access": "métro ligne 1 château de Vincenne",
+      "infos pratiques": "https://www.parcfloraldeparis.com/fr"
+    },
+
+    {
+      "id": 5,
+      "category": "Nuit insolite",
+      "name": "La Maison du rocher",
+      "description": "Refuge forestier insolite, chambre d'hôtes, tiny house et même bivouac dans les arbres!",
+      "rating": 4.9,
+      "image": "https://storage.googleapis.com/eyp-wordpress/1/2022/09/maison-du-rocher.jpg",
+      "location": "Forêt de Fontainebleau",
+      "access": "A 1h15 en voiture de Paris",
+      "infos pratiques": "la Maison du rocher, 11 bis, chemin des Prés, Noisy-sur-École (77). https://www.maisondurocher.com/ "
+    },
+
+    {
+      "id": 6,
+      "category": "Week-end déconnexion",
+      "name": "Découverte du village de Gerberoy",
+      "description": "Découvrez les plus beaux villages autour de Paris.",
+      "rating": 4.9,
+      "image": "https://unsplash.com/fr/photos/passerelle-en-brique-de-beton-rouge-cmm7Dcz3ztU",
+      "location": "Gerberoy",
+      "access": "A 1h30 de Paris en voiture ",
+      "infos pratiques": ""
+    },
+    {
+      "id": 7,
+      "category": "Parc",
+      "name": "Jardin des plantes",
+      "description": "Un grand jardin botanique au cœur de Paris, parfait pour une promenade relaxante.",
+      "rating": 4.7,
+      "image": "https://c1.staticflickr.com/1/600/33265389362_8b79429d34_b.jpg",
+      "location": "Paris",
+      "access": "Au cœur de Paris",
+      "infos pratiques": ""
+    },
+    {
+      "id": 8,
+      "category": "Parc",
+      "name": "Parc de Sceaux",
+      "description": "Un magnifique parc avec des jardins à la française, des étangs et des châteaux pour vous déconnecter de la ville.",
+      "rating": 4.9,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/11/3d/a6/visite-au-parc-de-sceaux.jpg?w=1200&h=-1&s=1",
+      "location": "Sceaux",
+      "access": "À 20 minutes de Paris par RER",
+      "infos pratiques": ""
+    },
+    {
+      "id": 9,
+      "category": "Loisirs",
+      "name": "Domaine de Chantilly",
+      "description": "L'un des joyaux du patrimoine Français, qui abrite les trésors intacts d'un prince du XIXe siècle, Henri d'Orléa Au programme :  le château de Chantilly, ses collections d'œuvres d'art regroupées dans le musée Condé, son parc et une forêt, la forêt de Chantilly, mais aussi des bâtiments dont plusieurs monuments historiques, avec notemment les Grandes Ecuries. ",
+      "rating": 4.1,
+      "image": "https://as1.ftcdn.net/v2/jpg/04/51/49/78/1000_F_451497893_3k2G7xmoI0S64GBXi6u8UXjTwyix814e.jpg",
+      "location": "Chantilly",
+      "access": "A 45 minutes de Paris par RER D",
+      "infos pratiques":""
+    },
+    {
+      "id": 10,
+      "category": "Loisirs",
+      "name": "Sortie à vélo le long de la Coulée Verte Sud",
+      "description": "Cette sortie vous propose de quitter l'ambiance très urbaine de la capitale pour filer plein sud, jusqu'à Massy. L'intinéraire suit le tracé de la Coulée Verte Sud, au départ de la Catalogne dans le 14ème arrondissement.",
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1495641417672-bf711cb4365b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "14ème arrondissement à Paris",
+      "access": "Au coeur de Paris",
+      "infos pratiques":""
+    },
+    {
+      "id": 11,
+      "category": "Randonnée",
+      "name": "Balade en forêt de Rambouillet",
+      "description": "Une promenade tranquille à travers les sentiers pittoresques de la forêt de Rambouillet.",
+      "rating": 4.1,
+      "image": "https://www.rambouillet-tourisme.fr/wp-content/uploads/2022/03/Rando-Conseil-Cernay-@OTCV-17-1000x750.jpg",
+      "location": "Forêt de Rambouillet-Yvelines",
+      "access": "À 1h de Paris par train",
+      "infos pratiques": "1 rue du Général de Gaulle - 78120 Rambouillet . https://www.rambouillet-tourisme.fr/"
+    },
+    {
+      "id": 12,
+      "category": "Randonnée",
+      "name": "Sentier des Oratoires",
+      "description": "Une randonnée agréable sur le sentier des Roches avec des vues imprenables sur la vallée de la Seine.",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1599580858167-cca099bc25e1?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "Saint-Germain-en-Laye",
+      "access": "À 45 minutes de Paris par RER",
+      "infos pratiques": ""
+    },
+    {
+      "id": 13,
+      "category": "Randonnée",
+      "name": "Plateau du Saclay",
+      "description": "Traverser les paysages méconnus du plateau du saclay, en faisant une longue randonnée bucolique et champêtre de Massy à Versaille",
+      "rating": "4,5",
+      "image": "https://storage.googleapis.com/eyp-wordpress/1/2021/03/image00001-e1615374018170.jpeg",
+      "location": "Essonne",
+      "access": "30 minutes de Paris par le RER B",
+      "infos pratiques": "de la gare de Massy-Palaiseau (RER B ou RER C) à la gare de Versailles-Chantiers (RER C, lignes N et U) / Durée : 6h / Distance : 24 km / Chemins en terre ou gravillonnés (80%) et trottoirs (20%)"
+    },
+    {
+      "id": 14,
+      "category": "Week-end déconnexion",
+      "name": "Le village d’Auvers-sur-Oise",
+      "description": "Venez découvrir le village d'Auvers-sur-Oise…",
+      "rating": 4.5,
+      "image": "https://unsplash.com/fr/photos/une-ancienne-eglise-avec-un-clocher-et-des-marches-en-pierre-q_Px3viPurs",
+      "location": "Auvers-sur-Oise",
+      "access": "À moins de 30 km de la capitale",
+      "infos pratiques": ""
+    },
+    {
+      "id": 15,
+      "category": "Randonnée",
+      "name": "La mer de sable de la forêt de Fontainbleau",
+      "description": "Promenade insolite appréciée des randonneurs dans la mer de sable au sein de la forêt de Fontainebleau",
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGZvcmV0fGVufDB8fDB8fHww",
+      "location": "Massif des trois pignons, Fontainebleau",
+      "access": "1h de Paris en voiture",
+      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+    },
+    {
+      "id": 16,
+      "category": "Nuit insolite",
+      "name": "Les cabanes d'Hérande",
+      "description": "Passer un week-end dans une charmante cabane en bois dans le Grand-est",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1537197518227-a36efeafd477?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGNhYmFubmUlMjBmb3JldCUyMHRvbm5lYXV8ZW58MHx8MHx8fDA%3D",
+      "location": "Troyes, Grand Est",
+      "access": "À 2h00 de Paris en voiture",
+      "infos pratiques": ""
+    },
+    {
+      "id": 17,
+      "category": "Nuit insolite",
+      "name": "Le Domaine des butineuses",
+      "description": "Nuit à la belle étoile au parc du perche dans le domaine des Butineuses",
+      "rating": 4.8,
+      "image": "https://www.ornetourisme.com/assets/uploads/2021/04/pnrp-mav.jpg",
+      "location": "parc du Perche en Orne",
+      "access": "À 1h40 de Paris en voiture",
+      "infos pratiques":""
+    },
+    {
+      "id": 18,
+      "category": "Nuit insolite",
+      "name": "Camping Sauvage à la Forêt de Sénart",
+      "description": "Une nuit à la belle étoile dans la forêt de Sénart, loin des lumières de la ville.",
+      "rating": 3.8,
+      "image": "https://images.unsplash.com/photo-1497900304864-273dfb3aae33?q=80&w=3015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "Forêt de Sénart",
+      "access": "À 45min de paris par voiture",
+      "infos pratiques": ""
+    },
+    {
+      "id": 19,
+      "category": "Nuit insolite",
+      "name": "Bivouac en Forêt de Fontainebleau",
+      "description": "Une nuit en bivouac dans la forêt de Fontainebleau, au plus près de la nature.",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1634247803638-195613f90490?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "Forêt de Fontainebleau",
+      "access": "À 1h de paris par voiture",
+      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+    },
+    {
+      "id": 20,
+      "category": "Nuit insolite",
+      "name": "Observation des étoiles à la Chevreuse",
+      "description": "Une expérience d'observation des étoiles dans la vallée de Chevreuse, parfaite pour les amateurs d'astronomie.",
+      "rating": 4.7,
+      "image": "https://www.smartbox.com/fr/blog/wp-content/uploads/2016/11/dormir-a-la-belle-etoile-scaled.jpg",
+      "location": "Vallée de Chevreuse",
+      "access": " À 1h de paris par voiture",
+      "infos pratiques":""
+    }
+  ]
+}
