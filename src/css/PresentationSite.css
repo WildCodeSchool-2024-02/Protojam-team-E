@@ -16,7 +16,7 @@
             padding: 1rem 10rem;
           }
 
-        @media screen and (min-width: 980px) {
+        @media screen and (min-width: 1200px) {
             padding: 1rem 25rem;
           }
     }
