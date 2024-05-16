@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-right: 50px;
+  margin: 0;
+}
+.bg-FDFDF2 {
+  background-color: #fdfdf2;
+}
