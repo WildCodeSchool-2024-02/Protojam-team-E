@@ -5,7 +5,8 @@
         padding: 1.5rem;
 
         @media screen and (min-width: 820px) {
-            font-size: 2rem;
+            padding: 2.5rem 1.5rem 2rem 1.5rem ;
+            font-size: 2.3rem;
           }
     }
     p{
@@ -14,6 +15,7 @@
 
         @media screen and (min-width: 820px) {
             padding: 1rem 10rem;
+            font-size: 1.3rem;
           }
 
         @media screen and (min-width: 1200px) {
