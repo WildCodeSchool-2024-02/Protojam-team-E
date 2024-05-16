@@ -14,12 +14,12 @@ export default function PresentationSite() {
         conçue pour répondre à tous vos besoins et aspirations.
       </p>
       <p>
-        CheminVert est votre portail vers une multitude d'activités naturelles
-        situées à proximité de Paris. Que vous recherchiez des randonnées à
-        travers des sentiers pittoresques, des moments de méditation et de paix
-        dans des parcs verdoyants, une séance de yoga revitalisante au lever du
-        soleil, ou même une nuit insolite sous les étoiles pour vous déconnecter
-        du quotidien, notre site est votre guide dédié.
+        Que diriez-vous de vous perdre dans les sentiers boisés de la forêt de
+        Fontainebleau, de vous laisser porter par la douceur des rivières de la
+        vallée de Chevreuse, ou encore de contempler le coucher du soleil depuis
+        les collines de la région de l'Île-de-France ? Avec CheminVert, chaque
+        escapade devient une occasion de renouer avec votre essence profonde et
+        de retrouver l'harmonie avec la nature qui nous entoure.
       </p>
       <p>
         Nous sommes convaincus que ces moments passés en pleine nature sont
