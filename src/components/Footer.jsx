@@ -1,7 +1,13 @@
 export default function Footer() {
   return (
-    <div>
-      <h1>Footer</h1>
-    </div>
+    <footer className="bg-gray-300 bg-opacity-30 border-t border-green-700 text-black mt-5 py-4">
+      <div className="container mx-auto flex justify-between items-center">
+        <div className="flex items-center">
+          <img src="/src/assets/logoprincipal.png" alt="Chemin Vert Logo" className="h-8 mr-2" />
+          <img src="/src/assets/logoNavmilieu.png"/>
+          </div>
+        <div className="text-sm">© 2024 All rights reserved.</div>
+      </div>
+    </footer>
   );
 }
