@@ -20,11 +20,12 @@
   position: relative;
 
   @media screen and (min-width: 820px) {
-    margin: 2rem 10rem;
+    margin: 2rem 10rem 0 10rem;
   }
 
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1000px) {
     margin: 1rem 30rem;
+    max-width: 38rem;
   }
 
   p:nth-of-type(1) {
@@ -55,4 +56,22 @@
     margin-top: 10px;
     text-align: justify;
   }
+}
+
+
+.button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    button{
+        border: 1px solid green;
+        padding: .5rem;
+        margin-top: 2rem;
+        border-radius: 10px;
+
+        @media screen and (max-width: 819px) {
+            display: none;
+          }
+    }
 }
