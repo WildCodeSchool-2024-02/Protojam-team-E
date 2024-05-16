@@ -1,15 +1,17 @@
-import "../css/PresentationSite.css"
+import "../css/PresentationSite.css";
 
 export default function PresentationSite() {
   return (
     <div className="container-presentation">
       <h1>Bienvenue sur notre site CheminVert</h1>
       <p>
-        À l'ère trépidante de la vie urbaine parisienne, il est essentiel de
-        s'évader de la frénésie citadine pour renouer avec la quiétude et la
-        beauté de la nature. C'est pourquoi nous avons créé ce site avec une
-        mission simple mais vitale : vous offrir une échappée authentique et
-        ressourçante à portée de main.
+        Sur CheminVert, nous avons à cœur de vous proposer bien plus qu'une
+        simple échappée dans la nature. Nous voulons vous offrir une expérience
+        complète, où chaque souffle d'air pur et chaque rayon de soleil filtrant
+        à travers les branches des arbres contribuent à rééquilibrer votre
+        énergie intérieure. Que vous soyez en quête d'aventure, de contemplation
+        ou simplement de moments de calme, notre sélection d'activités est
+        conçue pour répondre à tous vos besoins et aspirations.
       </p>
       <p>
         CheminVert est votre portail vers une multitude d'activités naturelles
@@ -20,18 +22,20 @@ export default function PresentationSite() {
         du quotidien, notre site est votre guide dédié.
       </p>
       <p>
-        Nous croyons fermement que la nature est la meilleure thérapie pour
-        l'esprit, le corps et l'âme, surtout le week-end. C'est pourquoi nous
-        avons sélectionné avec soin chaque expérience proposée sur notre
-        plateforme pour vous assurer une immersion totale dans la splendeur
-        naturelle à seulement quelques pas de la capitale.
+        Nous sommes convaincus que ces moments passés en pleine nature sont
+        essentiels pour nourrir votre bien-être physique et mental. C'est
+        pourquoi nous mettons un point d'honneur à vous guider à travers cette
+        expérience, en vous fournissant toutes les informations nécessaires pour
+        que votre escapade soit non seulement enrichissante, mais aussi
+        sécurisée et respectueuse de l'environnement.
       </p>
 
       <p>
-        Préparez-vous à vous éloigner du bruit de la ville et à vous plonger
-        dans la sérénité des paysages préservés, des moments de détente et de
-        renouveau. Rejoignez-nous sur CheminVert et redécouvrez le pouvoir de la
-        nature pour vous ressourcer et revitaliser votre esprit urbain.
+        Alors, que vous soyez un habitant de longue date de la capitale ou un
+        visiteur occasionnel, laissez-vous tenter par l'aventure et venez
+        explorer avec nous les trésors naturels qui se cachent aux portes de
+        Paris. CheminVert vous ouvre les portes d'un monde de sérénité et de
+        découverte, où chaque pas vous rapproche un peu plus de l'essentiel.
       </p>
     </div>
   );
