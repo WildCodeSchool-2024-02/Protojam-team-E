@@ -3,15 +3,17 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+
   position: fixed;
   width: 100%;
-  min-height: 74px;
+  min-height: 75px;
   padding: 1rem;
   background-color: green;
   color: white;
 }
 .navBarLinks {
   display: flex;
+  gap: 5px;
 }
 .navBarLink {
   padding: 0 0.3rem;
@@ -33,7 +35,7 @@
     position: fixed;
     right: -100vw;
     width: 0;
-    height: 25vh;
+    height: 20vh;
     visibility: hidden;
     transition: all 0.5s ease-out;
   }
@@ -44,7 +46,7 @@
   }
   .navBarLink {
     display: block;
-    padding: 1rem;
+    padding: 0.5rem;
     font-size: 5vw;
   }
   .navBarBurger {
@@ -60,7 +62,7 @@
   .burgerBar::before,
   .burgerBar::after {
     display: block;
-    width: 40px;
+    width: 30px;
     height: 3px;
     position: relative;
     border-radius: 3px;
