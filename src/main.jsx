@@ -28,7 +28,6 @@ const router = createBrowserRouter([
       {
         path : "/Activities/:id",
         element : <DetailPage/>,
-        loader : ({params}) => fetch (`./data/data.json${params.id}`)
       },
       {
         path: "/Contact",
