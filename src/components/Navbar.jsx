@@ -4,7 +4,6 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 export default function Navbar() {
   const [showLinks, setShowLinks] = useState(false);
-
   const handleShowLinks = () => {
     setShowLinks(!showLinks);
   };
@@ -16,7 +15,10 @@ export default function Navbar() {
       }`}
     >
       <span className="text-3xl px-5 my-auto">CheminVert</span>
-      <ul className="bg-green-700 navBarLinks flex gap-5 px-5 my-auto">
+      <ul
+        className="bg-green-700 navBarLinks flex px-5 my-auto"
+        onClick={handleShowLinks}
+      >
         <li className="navBarItem slideInDown-1">
           <Link className="navBarLink" to="/">
             Accueil

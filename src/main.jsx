@@ -25,8 +25,8 @@ const router = createBrowserRouter([
         element: <ActivitiesPage />,
       },
       {
-        path: "/Detail",
-        element: <DetailPage/>,
+        path : "/Activities/:id",
+        element : <DetailPage/>,
       },
       {
         path: "*",
