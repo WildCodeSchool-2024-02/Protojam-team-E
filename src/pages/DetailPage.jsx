@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { NavLink, useParams } from "react-router-dom";
+import {  useParams } from "react-router-dom";
 
 export default function DetailPage() {
   const { id } = useParams();
@@ -18,15 +18,14 @@ export default function DetailPage() {
   }
 
   const { image, name, rating, category, description, infos, lien } = activity;
-
+  const handleBack = () => {
+    window.history.back();
+  };
   return (
     <>
-      <div>
-        <NavLink to="/Activities">
-          <button>Retour</button>
-        </NavLink>
-      </div>
-
+      <button type="button" onClick={handleBack}>
+        Retour
+      </button>
       <h1 className="font-bold text-5xl text-center my-12">{name}</h1>
       <div className="flex justify-center">
         <div className="max-w-3xl rounded overflow-hidden shadow-lg">

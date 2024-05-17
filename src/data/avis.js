@@ -28,15 +28,15 @@ const avis = [
     name: "Christopher",
     title: "Les pioupiou en rando",
     description:
-      "La vue sur la vallée de la Seine étaient incroyables! Les pioupiou ont adoré chercher les oratoires cachés et on a même croisé des chats curieux. Une escapade parfaite loin de l'agitation",
+      "La vue sur la vallée de la Seine était incroyables! Les pioupiou ont adoré chercher les oratoires cachés et on a même croisé des chats curieux. Une escapade parfaite loin de l'agitation",
     rating: "★★★★★",
   },
   {
     id: 5,
-    name: "Yavouz",
+    name: "Yavuz",
     title: "Une escapade nature!",
     description:
-      "Passer une nuit en bivouac dans la Forêt de Fontainebleau est une expérience magique. A seuelement 1 heure de Paris en voiture, on se retrouve au coeur de la nature. Une escapade parfaite pour une déconnexion totale.",
+      "Passer une nuit en bivouac dans la Forêt de Fontainebleau est une expérience magique. A seulement 1 heure de Paris en voiture, on se retrouve au coeur de la nature. Une escapade parfaite pour une déconnexion totale.",
     rating: "★★★★☆",
   },
 ];

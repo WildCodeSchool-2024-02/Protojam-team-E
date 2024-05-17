@@ -4,7 +4,7 @@ export default function Activity({ activity }) {
   return (
     <NavLink
       to={`/activities/${activity.id}`}
-      className="w-80 max-w-sm rounded overflow-hidden shadow-lg hover:scale-95 transition-transform border bg-slate-50 border-green-700"
+      className="w-80 max-w-sm rounded overflow-hidden shadow-lg hover:scale-95 transition-transform border bg-slate-50 border-teal-400"
     >
       <div className="w-full h-80 max-h-80 w-76 object-cover">
         <img
