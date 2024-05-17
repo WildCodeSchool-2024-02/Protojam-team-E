@@ -8,7 +8,8 @@
       "image": "https://plus.unsplash.com/premium_photo-1664300099442-693ae7718393?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "Forêt de Fontainebleau",
       "access": " À 1h de Paris en voiture",
-      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+      "infos": "Site officiel de l'office de tourisme du pays de fontainbleau :  ",
+      "lien": "https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/"
     },
 
     {
@@ -20,7 +21,8 @@
       "image": "https://images.unsplash.com/photo-1593132517397-ceb31d77194a?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "Forêt de Fontainebleau",
       "access": " À 1h de Paris en voiture",
-      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+      "infos": "Site officiel de l'office de tourisme du pays de fontainbleau : ",
+      "lien": "https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "image": "https://media.istockphoto.com/id/1438913266/photo/seals-of-the-bay-of-authie-in-france.jpg?s=1024x1024&w=is&k=20&c=D01IvDUx-fkjkkGwFekUTiAFh1CBLIUi95792BZnpyY=",
       "location": "Picardie",
       "access": "A 2h45 en voiture de Paris",
-      "infos pratiques": ""
+      "infos": "",
+      "lien": " "
     },
 
     {
@@ -43,7 +46,8 @@
       "image": "https://cdn.generationvoyage.fr/2024/01/Parc-floral-de-Paris-Bois-de-Vincennes-755x430.jpeg",
       "location": "Paris",
       "access": "métro ligne 1 château de Vincenne",
-      "infos pratiques": "https://www.parcfloraldeparis.com/fr"
+      "infos": "Site officiel du parc flora de Paris : ",
+      "lien": "https://www.parcfloraldeparis.com/fr"
     },
 
     {
@@ -55,7 +59,8 @@
       "image": "https://storage.googleapis.com/eyp-wordpress/1/2022/09/maison-du-rocher.jpg",
       "location": "Forêt de Fontainebleau",
       "access": "A 1h15 en voiture de Paris",
-      "infos pratiques": "la Maison du rocher, 11 bis, chemin des Prés, Noisy-sur-École (77). https://www.maisondurocher.com/ "
+      "infos": "la Maison du rocher, 11 bis, chemin des Prés, Noisy-sur-École (77). ",
+      "lien": "https://www.maisondurocher.com/ "
     },
 
     {
@@ -67,7 +72,8 @@
       "image": "https://images.unsplash.com/photo-1607537670164-a9bfae0a8df1?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "Gerberoy",
       "access": "A 1h30 de Paris en voiture ",
-      "infos pratiques": ""
+      "infos": "Découvrez Gerberoy- (Oise), village des roses en Picardie :",
+      "lien": " https://www.les-plus-beaux-villages-de-france.org/fr/nos-villages/gerberoy/"
     },
     {
       "id": 7,
@@ -78,7 +84,8 @@
       "image": "https://c1.staticflickr.com/1/600/33265389362_8b79429d34_b.jpg",
       "location": "Paris",
       "access": "Au cœur de Paris",
-      "infos pratiques": ""
+      "infos": "un lieu pour s'émerveiller et s'instruire au Jardin des Plantes : ",
+      "lien": " https://www.jardindesplantesdeparis.fr/fr"
     },
     {
       "id": 8,
@@ -89,7 +96,8 @@
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/11/3d/a6/visite-au-parc-de-sceaux.jpg?w=1200&h=-1&s=1",
       "location": "Sceaux",
       "access": "À 20 minutes de Paris par RER",
-      "infos pratiques": ""
+      "infos": "Domaine départemental de Sceaux : ",
+      "lien": " https://domaine-de-sceaux.hauts-de-seine.fr/"
     },
     {
       "id": 9,
@@ -100,7 +108,8 @@
       "image": "https://as1.ftcdn.net/v2/jpg/04/51/49/78/1000_F_451497893_3k2G7xmoI0S64GBXi6u8UXjTwyix814e.jpg",
       "location": "Chantilly",
       "access": "A 45 minutes de Paris par RER D",
-      "infos pratiques":""
+      "infos":"Découvrir le domaine de chantilly : ",
+      "lien": "https://chateaudechantilly.fr/ "
     },
     {
       "id": 10,
@@ -111,7 +120,8 @@
       "image": "https://images.unsplash.com/photo-1495641417672-bf711cb4365b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "14ème arrondissement à Paris",
       "access": "Au coeur de Paris",
-      "infos pratiques":""
+      "infos":" Tapis rouge pour les cyclistes : ",
+      "lien": " https://www.pavillon-arsenal.com/fr/archivelo/11685-la-coulee-verte-du-sud-parisien-tapis-rouge-pour-cyclistes.html"
     },
     {
       "id": 11,
@@ -122,7 +132,8 @@
       "image": "https://www.rambouillet-tourisme.fr/wp-content/uploads/2022/03/Rando-Conseil-Cernay-@OTCV-17-1000x750.jpg",
       "location": "Forêt de Rambouillet-Yvelines",
       "access": "À 1h de Paris par train",
-      "infos pratiques": "1 rue du Général de Gaulle - 78120 Rambouillet . https://www.rambouillet-tourisme.fr/"
+      "infos": "1 rue du Général de Gaulle - 78120 Rambouillet . ",
+      "lien": " https://www.rambouillet-tourisme.fr/"
     },
     {
       "id": 12,
@@ -133,7 +144,8 @@
       "image": "https://www.rambouillet-tourisme.fr/wp-content/uploads/2022/03/Rando-Conseil-Cernay-@OTCV-17-1000x750.jpg",
       "location": "Saint-Germain-en-Laye",
       "access": "À 45 minutes de Paris par RER",
-      "infos pratiques": ""
+      "infos": "Association des amis de la forêt : ",
+      "lien": "https://www.amisforetsaintgermainmarly.org/le-sentier-des-oratoires/ "
     },
     {
       "id": 13,
@@ -144,7 +156,8 @@
       "image": "https://storage.googleapis.com/eyp-wordpress/1/2021/03/image00001-e1615374018170.jpeg",
       "location": "Essonne",
       "access": "30 minutes de Paris par le RER B",
-      "infos pratiques": "de la gare de Massy-Palaiseau (RER B ou RER C) à la gare de Versailles-Chantiers (RER C, lignes N et U) / Durée : 6h / Distance : 24 km / Chemins en terre ou gravillonnés (80%) et trottoirs (20%)"
+      "infos": "de la gare de Massy-Palaiseau (RER B ou RER C) à la gare de Versailles-Chantiers (RER C, lignes N et U) / Durée : 6h / Distance : 24 km / Chemins en terre ou gravillonnés (80%) et trottoirs (20%)",
+      "lien": " https://www.iledefrance-nature.fr/tous-nos-espaces-naturels-regionaux/espace-naturel-regional-du-plateau-de-saclay/"
     },
     {
       "id": 14,
@@ -155,7 +168,8 @@
       "image": "https://images.unsplash.com/photo-1559222830-f2620019146e?q=80&w=1736&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "Auvers-sur-Oise",
       "access": "À moins de 30 km de la capitale",
-      "infos pratiques": ""
+      "infos": " la Vallée de l’Oise et du Sausseron, Terre d’Inspiration Impressionniste",
+      "lien": " https://tourisme-auverssuroise.fr/"
     },
     {
       "id": 15,
@@ -166,7 +180,8 @@
       "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGZvcmV0fGVufDB8fDB8fHww",
       "location": "Massif des trois pignons, Fontainebleau",
       "access": "1h de Paris en voiture",
-      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+      "infos": "Site officiel de l'office de tourisme du pays de fontainbleau :  ",
+      "lien": "https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
     },
     {
       "id": 16,
@@ -177,7 +192,8 @@
       "image": "https://images.unsplash.com/photo-1537197518227-a36efeafd477?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGNhYmFubmUlMjBmb3JldCUyMHRvbm5lYXV8ZW58MHx8MHx8fDA%3D",
       "location": "Troyes, Grand Est",
       "access": "À 2h00 de Paris en voiture",
-      "infos pratiques": ""
+      "infos": "Hebergement insolite dans l'aube :",
+      "lien": "https://lescabanesdherande.fr/ "
     },
     {
       "id": 17,
@@ -188,7 +204,8 @@
       "image": "https://www.ornetourisme.com/assets/uploads/2021/04/pnrp-mav.jpg",
       "location": "parc du Perche en Orne",
       "access": "À 1h40 de Paris en voiture",
-      "infos pratiques":""
+      "infos":"",
+      "lien": "https://www.domainedesbutineuses.fr/ "
     },
     {
       "id": 18,
@@ -199,7 +216,8 @@
       "image": "https://images.unsplash.com/photo-1497900304864-273dfb3aae33?q=80&w=3015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "Forêt de Sénart",
       "access": "À 45min de paris par voiture",
-      "infos pratiques": ""
+      "infos": "",
+      "lien": " https://www.onf.fr/vivre-la-foret/+/180d::foret-domaniale-de-senart-decouvrir-la-biodiversite-forestiere-en-famille.html"
     },
     {
       "id": 19,
@@ -210,7 +228,8 @@
       "image": "https://images.unsplash.com/photo-1634247803638-195613f90490?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "location": "Forêt de Fontainebleau",
       "access": "À 1h de paris par voiture",
-      "infos pratiques": "Site officiel de l'office de tourisme du pays de fontainbleau : https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/ "
+      "infos": "Site officiel de l'office de tourisme du pays de fontainbleau :  ",
+      "lien": " https://www.fontainebleau-tourisme.com/fr/decouvrir-la-region/la-foret/"
     },
     {
       "id": 20,
@@ -221,6 +240,7 @@
       "image": "https://www.smartbox.com/fr/blog/wp-content/uploads/2016/11/dormir-a-la-belle-etoile-scaled.jpg",
       "location": "Vallée de Chevreuse",
       "access": " À 1h de paris par voiture",
-      "infos pratiques":""
+      "infos":"",
+      "lien": " "
     }
   ]
