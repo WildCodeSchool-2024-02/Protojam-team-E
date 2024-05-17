@@ -20,15 +20,13 @@ export default function HomePage() {
         Venez explorer avec nous les trésors naturels aux portes de Paris et
         découvrez un monde de sérénité et de découverte.
       </p>
-      <div className="block md:hidden">
+      <div className="hidden md:block">
+        <HomeActivity />
+      </div>
         <h1 className="text-center text-3xl font-bold mb-6 pt-6">
           Activités en vedettes
         </h1>
         <Carrousel />
-      </div>
-      <div className="hidden md:block">
-        <HomeActivity />
-      </div>
     </>
   );
 }
