@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { NavLink, useParams } from "react-router-dom";
 
 export default function FilteredActivities() {
   const [filteredActivitiesData, setFilteredActivitiesData] = useState([]);
@@ -20,6 +20,11 @@ export default function FilteredActivities() {
 
   return (
     <>
+      <div>
+        <NavLink to="/">
+          <button>Retour</button>
+        </NavLink>
+      </div>
       <div>
         <h2> Activités {category.replace("-", " ")}</h2>
         <div>
