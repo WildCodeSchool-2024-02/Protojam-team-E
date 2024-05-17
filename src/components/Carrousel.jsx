@@ -23,9 +23,9 @@ export default function Carrousel() {
         }}
         navigation={true}
         modules={[Keyboard, Pagination, Navigation]}
-        className="mySwiper"
+        className="mySwiper md:h-102 md:w-96"
       >
-        <div className="h-dvh py-16 px-6">
+        <div className="h-dvh py-16 px-6 ">
           <SwiperSlide>
             <div>
               <img
