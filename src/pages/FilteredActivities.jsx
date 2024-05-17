@@ -20,14 +20,6 @@ export default function FilteredActivities() {
 
   return (
     <>
-    <div className="mt-10 text-center">
-      <Link
-        to={`/`}
-        className="border bg-slate-50 border-green-700 p-2"
-      >
-        Retour
-      </Link>
-    </div>
       <div className="flex gap-5 justify-center">
         <div>
           <h2 className="text-center text-xl font-bold mb-6 mt-8">
