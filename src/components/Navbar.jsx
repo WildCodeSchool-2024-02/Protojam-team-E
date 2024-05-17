@@ -33,7 +33,14 @@ export default function Navbar() {
           <Link className="navBarLink" to="/Activities">
             Activités
           </Link>
-        </li>
+          </li>
+          <li>
+          <Link className="navBarLink" to="/Contact">
+            Contact
+          </Link>
+          </li>
+          
+        
       </ul>
       <button className="navBarBurger my-auto" onClick={handleShowLinks}>
         <span className="burgerBar"></span>
