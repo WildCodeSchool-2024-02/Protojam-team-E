@@ -17,7 +17,9 @@ export default function HomePage() {
       <h1 className="text-center text-3xl font-bold mb-6 pt-6">
         Activités en vedettes
       </h1>
+      <div className="block md:hidden">
       <Carrousel />
+      </div>
     </>
   );
 }
