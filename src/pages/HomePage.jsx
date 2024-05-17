@@ -1,4 +1,5 @@
 import Carrousel from "../components/Carrousel";
+import HomeActivity from "../components/HomeActivity";
 
 export default function HomePage() {
   return (
@@ -19,6 +20,9 @@ export default function HomePage() {
       </h1>
       <div className="block md:hidden">
       <Carrousel />
+      </div>
+      <div className="hidden md:block">
+        <HomeActivity />
       </div>
     </>
   );
