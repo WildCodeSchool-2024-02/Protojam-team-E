@@ -18,7 +18,7 @@ export default function HomePage() {
       </p>
       <p className="pb-10 px-10 text-justify md:mx-40">
         Venez explorer avec nous les trésors naturels aux portes de Paris et
-        découvrez un monde de sérénité et de découverte."
+        découvrez un monde de sérénité et de découverte.
       </p>
       <div className="block md:hidden">
         <h1 className="text-center text-3xl font-bold mb-6 pt-6">
