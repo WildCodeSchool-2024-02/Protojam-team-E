@@ -7,6 +7,7 @@ import HomePage from "./pages/HomePage.jsx";
 import AboutPage from "./pages/AboutPage.jsx";
 import ActivitiesPage from "./pages/ActivitiesPage.jsx";
 import DetailPage from "./pages/DetailPage.jsx";
+import ContactPage from "./pages/ContactPage.jsx";
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path : "/Activities/:id",
         element : <DetailPage/>,
+      },
+      {
+        path: "/Contact",
+        element: <ContactPage/> ,
       },
       {
         path: "*",
