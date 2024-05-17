@@ -8,6 +8,7 @@ import AboutPage from "./pages/AboutPage.jsx";
 import ActivitiesPage from "./pages/ActivitiesPage.jsx";
 import DetailPage from "./pages/DetailPage.jsx";
 import ContactPage from "./pages/ContactPage.jsx";
+import FilteredActivities from "./pages/FilteredActivities.jsx";
 
 const router = createBrowserRouter([
   {
@@ -26,16 +27,20 @@ const router = createBrowserRouter([
         element: <ActivitiesPage />,
       },
       {
-        path : "/Activities/:id",
-        element : <DetailPage/>,
+        path: "/Activities/:id",
+        element: <DetailPage />,
+      },
+      {
+        path: "/Filter/:category",
+        element: <FilteredActivities />,
       },
       {
         path: "/Contact",
-        element: <ContactPage/> ,
+        element: <ContactPage />,
       },
       {
         path: "*",
-        element: <h1> Cette page n`existe pas! </h1> ,
+        element: <h1> Cette page n`existe pas! </h1>,
       },
     ],
   },
