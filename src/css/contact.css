@@ -1,0 +1,114 @@
+
+
+form {
+  background-color: rgb(214, 249, 193);
+  
+  padding: 2rem;
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  @media screen and (min-width: 767px) {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  @media screen and (min-width: 1009px) {
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  border-radius: 40px 0 40px 0;
+}
+
+.popupContainer {
+  position: fixed;
+  bottom: 55%;
+  left: 10%;
+  right: 10%;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: white;
+  border: 3px solid rgb(6, 87, 1);
+  border-radius: 40px 0 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+
+  @media screen and (min-width: 767px) {
+    left: 20%;
+    right: 20%;
+    bottom: 45%;
+  }
+
+  @media screen and (min-width: 1009px) {
+    left: 30%;
+    right: 30%;
+    bottom: 60%;
+    padding: 1.5rem;
+  }
+
+  .closePopup {
+    width: 10rem;
+    height: 2rem;
+    border-radius: 20px 0 20px 0;
+    background-color: rgb(6, 87, 1);
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid rgb(6, 87, 1);
+  }
+}
+.Popup {
+  p {
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+input {
+  width: 100%;
+  background-color: white;
+  border: none;
+  margin-bottom: 0.7rem;
+  height: 2rem;
+  border: 2px solid rgb(2, 18, 1);
+  @media screen and (min-width: 767px) {
+    height: 3.5rem;
+    font-size: large;
+  }
+}
+textarea {
+  width: 100%;
+  font-family: Arial;
+  resize: none;
+  border: none;
+  border: 2px solid rgb(2, 18, 1);
+  @media screen and (min-width: 767px) {
+    font-size: large;
+    height: 15rem;
+  }
+}
+.button {
+  margin-top: 2rem;
+  margin-bottom: 0;
+  background-color: rgb(6, 87, 1);
+  border: 2px solid rgb(6, 87, 1);
+  width: 10rem;
+  height: 3rem;
+  color: white;
+  border-radius: 0 0 20px 20px;
+  @media screen and (min-width: 767px) {
+    font-size: 1.2rem;
+    height: 5rem;
+    width: 15rem;
+  }
+}
+
+.button:hover {
+  color: black;
+}
+
+.textarea-container {
+  margin: 1rem;
+}
