@@ -1,0 +1,149 @@
+.form-container{
+  img{ width: 100vw;
+    height: auto;
+    @media screen and (min-width: 767px) {
+      width : 60vw;
+  
+  
+    }
+  
+  }
+  
+  section{
+    display: flex
+    ;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  text-align: center;
+  }
+  h1{
+  
+    margin-top: 3rem;
+    color: black;
+    font-size: 1.2rem;
+    @media screen and (min-width: 767px) {
+      font-size: 1.3rem;
+    }
+    
+    
+  }
+  
+  
+  form {
+    background-color: rgb(248, 249, 246);
+    box-shadow: 1.8px 1.5px 1.5px 1.8px grey;
+    padding: 2rem;
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    @media screen and (min-width: 767px) {
+      margin-left: 20%;
+      margin-right: 20%;
+      box-shadow: 1.8px 1.5px 1.5px 1.8px grey;
+    }
+    @media screen and (min-width: 1009px) {
+      margin-left: 25%;
+      margin-right: 25%;
+    }
+    /* border-radius: 40px 0 40px 0; */
+  }
+  
+  .popupContainer {
+    position: fixed;
+    bottom: 55%;
+    left: 10%;
+    right: 10%;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border: 2px solid #26A69A;
+    border-radius: 40px 0 40px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+  
+    @media screen and (min-width: 767px) {
+      left: 20%;
+      right: 20%;
+      bottom: 45%;
+    }
+  
+    @media screen and (min-width: 1009px) {
+      left: 30%;
+      right: 30%;
+      bottom: 60%;
+      padding: 1.5rem;
+    }
+  
+    .closePopup {
+      width: 10rem;
+      height: 2rem;
+      border-radius: 20px 0 20px 0;
+      background-color: rgb(6, 87, 1);
+      color: white;
+      font-size: 1.1rem;
+      border: 2px solid rgb(6, 87, 1);
+    }
+  }
+  .Popup {
+    p {
+      font-size: 1.2rem;
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+  }
+  
+  input {
+    width: 100%;
+    background-color: white;
+    border: none;
+    margin-bottom: 0.7rem;
+    height: 2rem;
+    border: 1px solid #26A69A;
+    @media screen and (min-width: 767px) {
+      height: 3.5rem;
+      font-size: large;
+    }
+  }
+  textarea {
+    width: 100%;
+    font-family: Arial;
+    resize: none;
+    border: none;
+    border: 1px solid#26A69A;
+    @media screen and (min-width: 767px) {
+      font-size: large;
+      height: 15rem;
+    }
+  }
+  .button {
+    margin-top: 2rem;
+    margin-bottom: 0;
+    background-color:#26A69A;
+    border: 1px solid black;
+    width: 10rem;
+    height: 3rem;
+    color: white;
+    justify-content: center;
+    /* border-radius: 0 0 20px 20px; */
+    @media screen and (min-width: 767px) {
+      font-size: 1.2rem;
+      height: 5rem;
+      width: 15rem;
+    }
+  }
+  
+  .button:hover {
+    color: black;
+  }
+  
+  .textarea-container {
+    margin: 1rem;
+  }
+
+}

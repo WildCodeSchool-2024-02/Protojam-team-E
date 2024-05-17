@@ -14,6 +14,7 @@
 .navBarLinks {
   display: flex;
   gap: 5px;
+  color: white;
 }
 .navBarLink {
   padding: 0 0.3rem;
@@ -35,14 +36,16 @@
     position: fixed;
     right: -100vw;
     width: 0;
-    height: 20vh;
+    height: 35vh;
     visibility: hidden;
     transition: all 0.5s ease-out;
+    background-image: linear-gradient(to bottom right, #6EE7B7,#FBBF24);
   }
   .showNav .navBarLinks {
     width: 100%;
     right: 0;
     visibility: visible;
+    color: white;
   }
   .navBarLink {
     display: block;
@@ -66,7 +69,7 @@
     height: 3px;
     position: relative;
     border-radius: 3px;
-    background: white;
+    background: green;
     transition: all 0.5s ease-in-out;
   }
   .burgerBar::before,
@@ -105,5 +108,8 @@
   }
   .showNav .slideInDown-3 {
     transition: all 1.2s ease-out;
+  }
+  .showNav .slideInDown-4 {
+    transition: all 1.3s ease-out;
   }
 }
