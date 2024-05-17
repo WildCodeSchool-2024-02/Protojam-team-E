@@ -15,10 +15,10 @@ export default function HomePage() {
         respectueuse de l'environnement. Découvrez les trésors naturels aux
         portes de Paris avec CheminVert.
       </p>
+      <div className="block md:hidden">
       <h1 className="text-center text-3xl font-bold mb-6 pt-6">
         Activités en vedettes
       </h1>
-      <div className="block md:hidden">
       <Carrousel />
       </div>
       <div className="hidden md:block">
