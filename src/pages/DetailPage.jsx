@@ -6,7 +6,7 @@ export default function DetailPage() {
   const [activity, setActivity] = useState();
 
   useEffect(() => {
-    fetch("/src/data/data.json")
+    fetch(import.meta.env.VITE_DATA)
       .then((response) => response.json())
       .then((data) => {
         const activity = data.find((activity) => activity.id === parseInt(id));
