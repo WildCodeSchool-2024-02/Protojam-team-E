@@ -16,7 +16,7 @@ export default function ActivitiesList() {
   ];
 
   useEffect(() => {
-    fetch('/src/data/data.json')
+    fetch(import.meta.env.VITE_DATA)
       .then((response) => response.json())
       .then((data) => {
         setActivities(data);

@@ -6,7 +6,7 @@ export default function FilteredActivities() {
   const { category } = useParams();
 
   useEffect(() => {
-    fetch("/src/data/data.json")
+    fetch(import.meta.env.VITE_DATA)
       .then((response) => response.json())
       .then((data) => {
         const filteredData = data.filter(
